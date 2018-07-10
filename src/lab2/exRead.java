@@ -7,7 +7,7 @@ public class exRead {
     public static void main(String[] args) throws IOException {
 //        char c;
 //        System.out.print("c");
-//        c= (char)System.in.read();
+//        c = (char)System.in.read();
 //        System.out.println(c);
 
 
