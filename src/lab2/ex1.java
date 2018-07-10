@@ -14,6 +14,7 @@ public class ex1 {
         int t;
         t = x+y;
         System.out.println(x+y);
+
         System.out.println(y-x);
 
 
