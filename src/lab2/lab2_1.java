@@ -7,16 +7,16 @@ public class lab2_1 {
         int c,h,a,d,r,t,s,i,m,k;
 
         int b;
-        b = c+h+a+d+r+t+s+i+m+k;
-        System.out.println(c+h+a+d+r+t+s+i+m+k);
+
+        System.out.println();
 
         int e;
-        e = c/h/a/d/r/t/s/i/m/k;
-        System.out.println(c/h/a/d/r/t/s/i/m/k);
+
+        System.out.println();
 
         int n;
-        n = (b/e);
-        System.out.println(b/e);
+
+        System.out.println();
 
 
 
