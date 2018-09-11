@@ -23,7 +23,7 @@ public class ex3 {
     private static void showData(int[] num) {
         for (int val : num) {
             System.out.print(val + " ");
-2
+
         }
     }
 }
