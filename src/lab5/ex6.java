@@ -1,5 +1,7 @@
 package lab5;
 
+import java.util.StringTokenizer;
+
 public class ex6 {
 
     public static void main(String[] args) {
@@ -20,5 +22,12 @@ public class ex6 {
         System.out.println(myStr2);
 
         //StringBuilder
+
+        StringTokenizer myStr3 = new StringTokenizer("Hello, my name is Ben");
+        int count = myStr3.countTokens();
+        System.out.println(count);
+
+        //StringTokenizer
+
     }
 }
