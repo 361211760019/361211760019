@@ -26,18 +26,16 @@ public class Rectangle {
     }
     public void setLength(double length){
         this.length = length;
-
     }
     public double getWidth (){
         return this.width;
-
     }
     public void setWidth(double width){
         this.width = width;
-
     }
-    public  double getArea(){
+    public double getArea(){
         return this.length * this.width;
-
     }
+
+
 }//class
