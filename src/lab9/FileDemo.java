@@ -33,7 +33,7 @@ public class FileDemo {
 
             int i;
             while ((i = reader.read()) != -1) {
-                System.out.println((char) i);
+                System.out.print((char) i);
             }
             reader.close();
 
